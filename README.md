@@ -10,3 +10,4 @@ This repository contains my solutions to [Project Euler](https://projecteuler.ne
 | 4 | Largest Palindrome Product | [Problem_004.py](https://github.com/berkaktas1/project-euler-solutions/blob/main/Problem_004.py)|
 | 5 |	Smallest Multiple | [Problem_005.py](https://github.com/berkaktas1/project-euler-solutions/blob/main/Problem_005.py)|
 | 6 |	Sum Square Difference | [Problem_006.py](https://github.com/berkaktas1/project-euler-solutions/blob/main/Problem_006.py)|
+| 7 | 10 001st Prime | [Problem_007.py](https://github.com/berkaktas1/project-euler-solutions/blob/main/Problem_007.py)|
